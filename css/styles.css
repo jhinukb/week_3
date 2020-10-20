@@ -49,7 +49,6 @@ p {
 img {
   height: 30%;
   width: 30%;
-  content: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -63,7 +62,6 @@ section {
 }
 
 div {
-  font-color: white;
   color: white;
   padding: 20px;
 }
